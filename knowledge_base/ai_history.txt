@@ -1,0 +1,21 @@
+Artificial Intelligence: A Brief History
+
+The field of artificial intelligence (AI) was founded at the Dartmouth Conference in 1956. 
+Researchers John McCarthy, Marvin Minsky, Claude Shannon, and Nathaniel Rochester organized 
+the first AI conference, coining the term "artificial intelligence."
+
+Early AI systems used rule-based approaches and symbolic logic. The first AI programs 
+included the Logic Theorist (1956) and General Problem Solver (1957) by Allen Newell and 
+Herbert Simon.
+
+The AI winter of the 1970s-1980s saw reduced funding and interest due to overpromised results.
+However, the field revived with expert systems in the 1980s, machine learning in the 1990s,
+and deep learning revolution starting in 2012.
+
+Modern AI milestones include:
+- 1997: Deep Blue defeats chess champion Garry Kasparov
+- 2011: IBM Watson wins Jeopardy!
+- 2012: AlexNet wins ImageNet competition, launching deep learning era
+- 2017: Attention Is All You Need paper introduces the Transformer architecture
+- 2022: ChatGPT launches, making LLMs mainstream
+- 2023: GPT-4, Claude, and Gemini compete as frontier AI models

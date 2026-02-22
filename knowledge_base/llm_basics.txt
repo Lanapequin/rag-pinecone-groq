@@ -1,0 +1,23 @@
+Large Language Models (LLMs): Core Concepts
+
+A Large Language Model (LLM) is a type of AI model trained on vast amounts of text data 
+to understand and generate human language. LLMs use the Transformer architecture, introduced 
+in the "Attention Is All You Need" paper by Vaswani et al. in 2017.
+
+Key characteristics of LLMs:
+1. Scale: Trained on billions or trillions of tokens
+2. Emergent capabilities: Abilities that appear at sufficient scale
+3. Few-shot learning: Can learn new tasks from just a few examples
+4. In-context learning: Uses examples in the prompt
+
+Popular LLMs include:
+- GPT-4 by OpenAI (closed source)
+- Claude by Anthropic (closed source)
+- LLaMA 3 by Meta (open source)
+- Gemini by Google (closed source)
+- Mixtral by Mistral AI (open weights)
+
+Training process involves:
+1. Pre-training on large text corpora
+2. Fine-tuning with supervised learning
+3. RLHF (Reinforcement Learning from Human Feedback)

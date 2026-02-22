@@ -1,0 +1,27 @@
+Vector Databases: Complete Guide
+
+A vector database is a specialized database designed to store, index, and query 
+high-dimensional vectors (embeddings) efficiently. Unlike traditional databases 
+that search for exact matches, vector databases perform similarity search.
+
+How vector search works:
+1. Data (text, images) is converted to embeddings using an embedding model
+2. Embeddings are stored in the vector database
+3. At query time, the query is also converted to an embedding
+4. The database finds stored vectors most similar to the query vector
+5. Similarity is measured using cosine similarity, dot product, or Euclidean distance
+
+Popular vector databases:
+- Pinecone: Fully managed, easy to use, generous free tier
+- Weaviate: Open-source, can run locally
+- Chroma: Lightweight, great for development
+- Qdrant: Open-source, high performance
+- Milvus: Open-source, enterprise-grade
+- pgvector: PostgreSQL extension for vector storage
+
+Pinecone Free Tier (Starter Plan):
+- 1 project
+- 1 index
+- Up to 2GB storage
+- Shared infrastructure
+- Perfect for learning and development
