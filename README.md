@@ -88,7 +88,7 @@ langchain-rag-pinecone/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/langchain-rag-pinecone.git
+git clone https://github.com/Lanapequin/rag-pinecone-groq.git
 cd langchain-rag-pinecone
 ```
 
